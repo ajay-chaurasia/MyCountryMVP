@@ -1,4 +1,4 @@
-package com.example.ajaychaurasia.mycountry.pojo;
+package com.example.ajaychaurasia.mycountrymvp.mvp.model.pojo;
 
 /**
  * This holds each of the Row Data in the Response
